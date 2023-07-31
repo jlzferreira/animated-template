@@ -22,5 +22,4 @@ Este projeto foi desenvolvido por jlzferreira.<br>
 Se tiver alguma sugestão ou quiser saber mais sobre como as animações foram implementadas, sinta-se à vontade para entrar em contato.<br>
 <br>
 <b>Link para o Projeto</b><br>
-Para visualizar a Landpage Animada, acesse o projeto através do link: <a href="https://jlzferreira.github.io/animated-template/" target="_blank">Landpage Animada</a>
-
+Para visualizar a Landpage Animada, acesse o projeto através do link:  [go](https://jlzferreira.github.io/animated-template/){:target="_blank" rel="noopener"}
